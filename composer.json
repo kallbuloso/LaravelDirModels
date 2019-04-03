@@ -1,9 +1,10 @@
 {
-    "name": "laravel/laravel",
+    "name": "kallbuloso/laravel-dir-models",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Framework Laravel com os Models na pasta 'Models'.",
     "keywords": [
         "framework",
+        "kallbuloso",
         "laravel"
     ],
     "license": "MIT",
